@@ -133,7 +133,7 @@ You should see:
 
 }
 ```
-### **project folder**
+### **Project folder**
 
 ```pgsql
 hello-world/
