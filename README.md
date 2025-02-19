@@ -134,6 +134,8 @@ You should see:
 }
 ```
 **project folder**
+
+```pgsql
 hello-world/
 │── events/
 │── hello_world/
@@ -142,3 +144,5 @@ hello-world/
 │── template.yaml  ← (AWS SAM template)
 │── README.md
 │── tests/
+
+```
