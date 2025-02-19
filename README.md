@@ -47,7 +47,7 @@ sam --version
 
 Now, let’s create a simple **Hello World** Lambda function and test it locally.
 
-### **4.1 Initialize a New AWS SAM Project**
+### **Initialize a New AWS SAM Project**
 
 Run this command in your terminal:
 
