@@ -133,16 +133,3 @@ You should see:
 
 }
 ```
-### **Project folder**
-
-```pgsql
-hello-world/
-│── events/
-│── hello_world/
-│   ├── __init__.py
-│   ├── app.py  ← (Main Lambda function)
-│── template.yaml  ← (AWS SAM template)
-│── README.md
-│── tests/
-
-```
