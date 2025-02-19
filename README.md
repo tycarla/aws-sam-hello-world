@@ -127,7 +127,18 @@ You should see:
 ```json
 {
 
+
+
 "message": "Hello, World!"
 
 }
 ```
+**project folder**
+hello-world/
+│── events/
+│── hello_world/
+│   ├── __init__.py
+│   ├── app.py  ← (Main Lambda function)
+│── template.yaml  ← (AWS SAM template)
+│── README.md
+│── tests/
