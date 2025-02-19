@@ -25,7 +25,7 @@ If you have little to no budget, running a backend on AWS Lambda makes sense bec
 
 You're building a small API for a project, but you don’t want to pay for a full-time server. AWS Lambda runs **only when needed**, making it super cost-efficient.
 
-### **Step 3: Setting Up AWS Lambda Locally**
+### **Setting Up AWS Lambda Locally**
 
 Now let’s set up our Lambda function locally using AWS SAM (Serverless Application Model).
 
