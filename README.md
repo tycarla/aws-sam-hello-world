@@ -29,7 +29,7 @@ You're building a small API for a project, but you don’t want to pay for a ful
 
 Now let’s set up our Lambda function locally using AWS SAM (Serverless Application Model).
 
-**3.1 Install Required Tools**
+**Install Required Tools**
 
 ✅ Install **AWS CLI** ([Download](https://aws.amazon.com/cli/))
 
@@ -70,7 +70,7 @@ cd hello-world-lambda
 
 ### **Running Lambda Locally with AWS SAM**
 
-**5.1 Check the Function Code**
+**Check the Function Code**
 
 Go to the hello_world folder and open app.py. You’ll see a function like this:
 
@@ -90,7 +90,7 @@ return {
 
 This is our Lambda function—it just returns a simple JSON response.
 
-### **5.2 Run the Lambda Function Locally**
+### **Run the Lambda Function Locally**
 
 Run this command:
 
@@ -110,7 +110,7 @@ sam local invoke "HelloWorldFunction"
 }
 ```
 
-**5.3 Run the Function as an API**
+**Run the Function as an API**
 
 To test the Lambda function through an API Gateway locally, use:
 
